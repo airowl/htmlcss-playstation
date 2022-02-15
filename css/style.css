@@ -5,6 +5,8 @@
     border: 1px solid red;
 }
 
+/* HEADER */
+
 .my-header-top{
     background-color: black;
     color: white;
@@ -19,6 +21,8 @@
     
 }
 
+/* HERO */
+
 .my-main-hero{
     background-image: url(../img/jumbo-bg.png);
     background-size: cover;
@@ -32,4 +36,16 @@
 
 .my-hero-text{
     height: 42rem;
+}
+
+/* BANNER GAME */
+
+.my-banner-game{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.my-banner-game img{
+    width: 40%;
 }
