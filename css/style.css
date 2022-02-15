@@ -18,3 +18,18 @@
     height: 1.8rem;
     
 }
+
+.my-main-hero{
+    background-image: url(../img/jumbo-bg.png);
+    background-size: cover;
+    background-position: center;
+    height: 42rem;
+}
+
+.my-main-hero img{
+    width: 50%;
+}
+
+.my-hero-text{
+    height: 42rem;
+}
