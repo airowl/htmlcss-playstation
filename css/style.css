@@ -4,3 +4,12 @@
     background-color: aqua;
     border: 1px solid red;
 }
+
+.header-top{
+    background-color: black;
+    color: white;
+}
+
+.header-top img{
+    height: 1.125rem;
+}
