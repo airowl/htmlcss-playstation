@@ -5,11 +5,16 @@
     border: 1px solid red;
 }
 
-.header-top{
+.my-header-top{
     background-color: black;
     color: white;
 }
 
-.header-top img{
+.my-header-top img{
     height: 1.125rem;
+}
+
+.lens img{
+    height: 1.8rem;
+    
 }
