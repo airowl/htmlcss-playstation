@@ -91,6 +91,19 @@ footer{
     background-color: #00439c;
 }
 
+footer a, footer a:hover, footer a:visited{
+    text-decoration: none;
+    color: white;
+}
+
+.ps-logo-footer{
+    height: 3rem;
+}
+
 .globe{
     height: 1rem;
+}
+
+footer ul li{
+    margin-bottom: .8rem;
 }
