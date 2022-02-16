@@ -97,11 +97,15 @@ footer a, footer a:hover, footer a:visited{
 }
 
 .ps-logo-footer{
-    height: 3rem;
+    height: 5rem;
 }
 
 .globe{
     height: 1rem;
+}
+
+.sie-logo{
+    height: 4rem;
 }
 
 footer ul li{
