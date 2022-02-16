@@ -65,3 +65,9 @@
 .my-width{
     width: 60%;
 }
+
+/* BANNER DARK */
+
+.my-banner-dark{
+    background-color: #161c3b;
+}
