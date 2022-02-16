@@ -71,3 +71,16 @@
 .my-banner-dark{
     background-color: #161c3b;
 }
+
+/* SOCIAL */
+
+ul.i-social li{
+    width: calc(100% / 2);
+}
+
+@media (min-width: 576px) {
+
+    ul.i-social li{
+        width: calc(100% / 8);
+    }
+}
