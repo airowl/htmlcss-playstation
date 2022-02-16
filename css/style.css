@@ -38,6 +38,38 @@
     height: 42rem;
 }
 
+.my-photo{
+    padding: 1px;
+    outline: 5px solid transparent;
+    border-radius: 2rem;
+    transition: outline 300ms ease-in-out;
+}
+
+.my-photo:hover{
+    outline: 5px solid #2d64e6;
+    border-radius: 2rem;
+}
+
+.my-photo img{
+    border-radius: 2rem;
+}
+
+/* PRODOTTI */
+
+#gallery-console div.my-active{
+    opacity: 1;
+    border-bottom: 4px solid #2d64e6;
+}
+
+#gallery-console div{
+    opacity: .5;
+}
+
+#gallery-console div:hover{
+    border-bottom: 4px solid #2d64e6;
+    opacity: 1;
+}
+
 /* BANNER GAME */
 
 .my-banner-game{
