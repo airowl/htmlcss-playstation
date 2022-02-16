@@ -84,3 +84,13 @@ ul.i-social li{
         width: calc(100% / 8);
     }
 }
+
+/* FOOTER */
+
+footer{
+    background-color: #00439c;
+}
+
+.globe{
+    height: 1rem;
+}
