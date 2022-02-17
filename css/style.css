@@ -79,11 +79,11 @@ main{
 
 #gallery-console div{
     opacity: .5;
-    height: 13rem;
+    border-bottom: 4px solid transparent;
 }
 
 #gallery-console div:hover{
-    border-bottom: 4px solid #2d64e6;
+    border-color: #2d64e6;
     opacity: 1;
 }
 
