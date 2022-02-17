@@ -82,6 +82,20 @@
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
     background-size: cover;
     background-position: center;
+    position: relative;
+}
+
+.my-overlay{
+    content: '';
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, .3);
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
 }
 
 .my-banner-game img{
