@@ -1,5 +1,9 @@
 /* HEADER */
 
+header{
+    width: 100%;
+}
+
 .my-header-top{
     background-color: black;
     color: white;
@@ -24,6 +28,12 @@
 
 .my-dropdown-toggle:hover::after{
     content: url(../img/chevron-down-solid-hover.svg);
+}
+
+/* MAIN */
+
+main{
+    margin-top: 126px;
 }
 
 /* HERO */
